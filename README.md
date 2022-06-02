@@ -1,2 +1,2 @@
 # terraform-test-repo
-The repo was created by HashiCorp Terraform
+This repo was created by HashiCorp Terraform
